@@ -11,4 +11,12 @@
     <name>Multilingual Error Messages</name>
     <description>Http error messages in different languages for end user</description>
 
+    <distributionManagement>
+        <repository>
+            <id>bintray-umeshraja0510-multilingual_http_errors</id>
+            <name>umeshraja0510-multilingual_http_errors</name>
+            <url>https://api.bintray.com/maven/umeshraja0510/multilingual_http_errors/multilingual-http-errors/;publish=1</url>
+        </repository>
+    </distributionManagement>
+
 </project>
