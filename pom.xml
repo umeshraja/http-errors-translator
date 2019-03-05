@@ -5,7 +5,7 @@
 
     <groupId>com.github.umeshraja</groupId>
     <artifactId>multilingual_error_messages</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>Multilingual Error Messages</name>
