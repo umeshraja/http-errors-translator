@@ -10,4 +10,4 @@ Idea: To provide standard set of http messages for all applications that end use
 > set of error messages in multiple languages. During
 > first release, only English Language is supported.
 > In subsequent releases, messages in other languages will be available. This repository is public, anyone can contribute
-> to add error messages in his/her native language.
+> to add error messages in their native language.
