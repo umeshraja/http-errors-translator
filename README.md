@@ -11,5 +11,3 @@ Idea: To provide standard set of http messages for all applications that end use
 > first release, only English Language is supported.
 > In subsequent releases, messages in other languages will be available. This repository is public, anyone can contribute
 > to add error messages in his/her native language.
-
-## How to use?
